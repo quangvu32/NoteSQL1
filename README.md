@@ -1,2 +1,2 @@
 # React Native Note app with SQLite
-# Using 'react-native-sqlite-storage' as database
+Using 'react-native-sqlite-storage' as database
